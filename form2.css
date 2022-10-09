@@ -1,0 +1,50 @@
+.main{
+    border-collapse: collapse;
+    border: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:0cm;
+    font-size: small;
+    text-align: center;
+    height: 50%;
+    width: 40%;
+
+}
+.h{
+    text-align: center;
+}
+a{
+    text-align: left;
+}
+.btn{
+    background-color: blue;
+    text-align: right;
+    border-color: blue;
+    border-radius: 5px;
+    margin-left: 50%;
+}
+.all{
+    text-align: center;
+    margin-right: 23%;
+    margin-top: 1%;
+    font-size: smaller;
+    
+}
+.lear{
+    margin-right: 80%;
+
+}
+.forge{
+    
+    margin-right: 75%;
+
+}
+.create{
+    
+    margin-right: 10%;
+
+}
+.b{
+    text-align: right;
+    margin-bottom: auto;
+}
